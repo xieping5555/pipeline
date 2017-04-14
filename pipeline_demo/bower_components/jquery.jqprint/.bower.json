@@ -1,0 +1,14 @@
+{
+  "name": "jquery.jqprint",
+  "homepage": "https://github.com/tanathos/jquery.jqprint",
+  "_release": "13a4f0e0a4",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "13a4f0e0a46d1e8819f7552ed136abbf725cc33f"
+  },
+  "_source": "https://github.com/tanathos/jquery.jqprint.git",
+  "_target": "*",
+  "_originalSource": "jquery.jqprint",
+  "_direct": true
+}
